@@ -1,1 +1,1 @@
-# Internship-Website
+# LGmInternship-Website
